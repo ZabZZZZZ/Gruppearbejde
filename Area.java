@@ -20,3 +20,4 @@ public class Area {
         input.close();
     }
 }
+hej med jer 
