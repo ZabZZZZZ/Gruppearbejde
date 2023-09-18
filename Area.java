@@ -26,4 +26,3 @@ public class Area {
 //Master 1
 //Master 2
 //A1
-//Fejl!
